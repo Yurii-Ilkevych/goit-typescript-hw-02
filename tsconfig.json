@@ -12,7 +12,7 @@
     "skipLibCheck": true,
     "strictNullChecks": true,
     "target": "es2019",
-    "sourceMap": true
+    "sourceMap": true,
   },
   "include": ["**/*.ts"]
 }
